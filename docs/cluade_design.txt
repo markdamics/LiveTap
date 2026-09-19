@@ -1,0 +1,25 @@
+Use the claude_design MCP (https://api.anthropic.com/v1/design/mcp, auth via /design-login) to import this project:
+https://claude.ai/design/p/3bade16a-a722-42e6-85ff-d3818f12c050?file=Live+Catch+Webhook+Terminal+-+Desktop.dc.html
+
+Focus on these files (the whole project is readable):
+- `Live Catch Webhook Terminal - Desktop.dc.html`
+
+Also read these files the selection imports:
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/_ds_bundle.js`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/components/core/core.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/components/feedback/feedback.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/components/forms/forms.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/components/navigation/navigation.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/styles.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/accents.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/base.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/colors.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/elevation.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/fonts.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/motion.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/radius.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/spacing.css`
+- `_ds/ginei-design-system-2eb4f36c-3d47-4343-9718-6b50a0ad56f7/tokens/typography.css`
+- `support.js`
+
+Implement: `Live Catch Webhook Terminal - Desktop.dc.html`
